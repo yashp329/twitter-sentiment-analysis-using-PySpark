@@ -16,3 +16,5 @@ This project analyzes sentiment from tweets related to the 2020 US Presidential 
 ## Results:
 - **Donald Trump** was the most talked-about candidate, but **Joe Biden** received more positive tweets.
 - The sentiment analysis results correlate with the overall election outcome, highlighting that **Joe Biden** had a higher positive sentiment.
+
+### Updating the Markdown file here
