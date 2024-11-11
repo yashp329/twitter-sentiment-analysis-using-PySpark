@@ -8,7 +8,7 @@ This project analyzes sentiment from tweets related to the 2020 US Presidential 
 - **Machine Learning Models**: 
   - **Logistic Regression**
   - **Random Forest**
-  - **Support Vector Machine (SVM)**
+  - **Support Vector Machines (SVM)**
 - **Best Model**: The SVM model achieved the highest accuracy of **87.48%**.
 - **Exploratory Data Analysis (EDA)**: Visualizations of tweet counts by country, U.S. states, and tweet sources (web vs mobile).
 - **Scalability**: Uses PySpark for efficient large-scale data processing, making the pipeline scalable for big data.
@@ -16,5 +16,3 @@ This project analyzes sentiment from tweets related to the 2020 US Presidential 
 ## Results:
 - **Donald Trump** was the most talked-about candidate, but **Joe Biden** received more positive tweets.
 - The sentiment analysis results correlate with the overall election outcome, highlighting that **Joe Biden** had a higher positive sentiment.
-
-### Updating the Markdown file here
