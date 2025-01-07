@@ -1,6 +1,8 @@
 # 🗳️ Twitter Sentiment Analysis: 2020 US Election
 
-![Twitter Sentiment Analysis Dashboard](BidenVsTrump_Analysis.png)
+<p align="center">
+  <img src="BidenVsTrump_Analysis.png" alt="Twitter Sentiment Analysis Dashboard" width="600"/>
+</p>
 
 ## 📌 Project Overview
 This project analyzes **public sentiment** on Twitter during the **2020 US Presidential Election**, focusing on tweets about **Donald Trump** and **Joe Biden**. By leveraging **big data analytics** and **machine learning**, we examine sentiment distribution, geographical engagement, and tweet sources to uncover key insights into online political discourse.
