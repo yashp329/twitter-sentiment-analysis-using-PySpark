@@ -16,7 +16,7 @@ This project utilizes **cloud-based big data processing** and **machine learning
 | **Azure Databricks**  | Provides a cloud-based collaborative platform for big data analytics, data processing, and machine learning. |
 | **Apache Spark (PySpark)** | Enables fast and distributed data processing for handling large tweet datasets. |
 | **MLlib (Spark Machine Learning Library)** | Used for feature extraction, vectorization, and model training. |
-| **Matplotlib & Seaborn** | Creates visualizations for exploratory data analysis (EDA). |
+| **Databricks** | Creates visualizations for exploratory data analysis (EDA). |
 | **Scikit-learn** | Trains and evaluates machine learning models for sentiment classification. |
 
 ## 🚀 Project Workflow
